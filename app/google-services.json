@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920705616790",
+    "firebase_url": "https://logistic-system-36d4f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "logistic-system-36d4f",
+    "storage_bucket": "logistic-system-36d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920705616790:android:f063ab553ccc9cbb4babb7",
+        "android_client_info": {
+          "package_name": "com.example.logisticsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920705616790-pqp4uimgoj148sona59ckvgs05mlklkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Q8N7WKxzwPuK2Mf7qirLcVAkZioZWCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920705616790-pqp4uimgoj148sona59ckvgs05mlklkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
